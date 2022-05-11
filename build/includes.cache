@@ -1,0 +1,302 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\10078798\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\cores\\esp8266"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\10078798\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\variants\\generic"
+  },
+  {
+    "Sourcefile": "d:\\firmware\\arduino\\easykey\\build\\sketch\\easykey.ino.cpp",
+    "Include": "ESP8266WiFi.h",
+    "Includepath": "C:\\Users\\10078798\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\libraries\\ESP8266WiFi\\src"
+  },
+  {
+    "Sourcefile": "d:\\firmware\\arduino\\easykey\\build\\sketch\\easykey.ino.cpp",
+    "Include": "Ticker.h",
+    "Includepath": "C:\\Users\\10078798\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\libraries\\Ticker\\src"
+  },
+  {
+    "Sourcefile": "d:\\firmware\\arduino\\easykey\\build\\sketch\\easykey.ino.cpp",
+    "Include": "PubSubClient.h",
+    "Includepath": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\PubSubClient\\src"
+  },
+  {
+    "Sourcefile": "d:\\firmware\\arduino\\easykey\\build\\sketch\\easykey.ino.cpp",
+    "Include": "ArduinoJson.h",
+    "Includepath": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\ArduinoJson\\src"
+  },
+  {
+    "Sourcefile": "d:\\firmware\\arduino\\easykey\\build\\sketch\\easykey.ino.cpp",
+    "Include": "SHA256.h",
+    "Includepath": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src"
+  },
+  {
+    "Sourcefile": "d:\\firmware\\arduino\\easykey\\build\\sketch\\easykey.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\10078798\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\libraries\\ESP8266WiFi\\src\\BearSSLHelpers.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\10078798\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\libraries\\ESP8266WiFi\\src\\CertStoreBearSSL.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\10078798\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\libraries\\ESP8266WiFi\\src\\ESP8266WiFi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\10078798\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiAP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\10078798\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiGeneric.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\10078798\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiGratuitous.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\10078798\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiMulti.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\10078798\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiSTA-WPS.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\10078798\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiSTA.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\10078798\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiScan.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\10078798\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\libraries\\ESP8266WiFi\\src\\WiFiClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\10078798\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\libraries\\ESP8266WiFi\\src\\WiFiClientSecureBearSSL.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\10078798\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\libraries\\ESP8266WiFi\\src\\WiFiServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\10078798\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\libraries\\ESP8266WiFi\\src\\WiFiServerSecureBearSSL.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\10078798\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\libraries\\ESP8266WiFi\\src\\WiFiUdp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\10078798\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\libraries\\ESP8266WiFi\\src\\enable_wifi_at_boot_time.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\10078798\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.2\\libraries\\Ticker\\src\\Ticker.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\PubSubClient\\src\\PubSubClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\AES128.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\AES192.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\AES256.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\AESCommon.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\AESEsp32.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\AuthenticatedCipher.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\BLAKE2b.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\BLAKE2s.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\BigNumberUtil.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\BlockCipher.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\CTR.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\ChaCha.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\ChaChaPoly.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\Cipher.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\Crypto.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\Curve25519.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\EAX.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\Ed25519.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\GCM.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\GF128.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\GHASH.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\Hash.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\KeccakCore.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\NoiseSource.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\OMAC.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\P521.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\Poly1305.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\RNG.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\SHA256.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\SHA3.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\SHA512.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\SHAKE.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\XOF.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "D:\\MinthData\\10078798\\Documents\\Arduino\\libraries\\Crypto\\src\\XTS.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
